@@ -6,8 +6,8 @@ https://www.coursera.org/specializations/data-systems
 This specialization delves into new frameworks for processing and generating large-scale datasets with parallel and distributed algorithms. Courses cover the design, deployment and use of state-of-the-art data processing systems, which provide scalable access to data.
 
 ## Courses
-1. [Core Database Concepts]
-2. [Distributed Database Systems]
-3. [NoSQL Database Systems]
-4. [Big Data Tools]
-5. [Data Management in the Cloud]
+1. [Core Database Concepts](https://github.com/skielosky/ASU-Data-Systems-Specialization/tree/master/01-Core-Database-Concepts)
+2. Distributed Database Systems
+3. NoSQL Database Systems
+4. Big Data Tools
+5. Data Management in the Cloud
